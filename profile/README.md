@@ -1,10 +1,10 @@
-## Hey there!
+## Kia ora!
 
 This is keorangi!🦜
 
 We are based at the far end of the world (or the top of the world depending on your view point) and are creative software craftsmen.
 
-What this means is, we are a small team, able to build software that is clever.  
+We are a small team focussed on developing useful tiny applications for leading web platforms.
 
 Watch this space for our product releases.
 
