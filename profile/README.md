@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="https://keorangi.com/images/keorangi-logo-color.svg" width="180" alt="Keorangi logo" />
 </p>
 
