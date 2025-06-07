@@ -1,20 +1,74 @@
-## Kia ora!
+<p align="center">
+  <img src="https://keorangi.com/images/keorangi-logo-color.svg" width="180" alt="Keorangi logo" />
+</p>
 
-This is keorangi!🦜
+# Kia ora, we’re Keorangi 👋
 
-We are based at the far end of the world (or the top of the world depending on your view point) and are creative software craftsmen.
+**Independent software makers crafting small, useful SaaS & web tools** — all built openly with care from our studio in Aotearoa (New Zealand).
 
-We are a small team focussed on developing useful tiny applications for leading web platforms.
+🌱 Maker-first. Code-light. Craft-heavy.  
+💡 Focused on building tools people actually use.
+---
 
-Watch this space for our product releases.
+### 🚀 What We’re Building
 
-<!--
+We're experimenting with small software that:
+- Solves practical problems for small teams and solo users
+- Leans on platforms like **Shopify**, **Slack**, **Stripe**, and the **Open Web**
+- Is built with transparency and an eye for clean, maintainable code
 
-**Here are some ideas to get you started:**
+> 🧪 Current builds are in progress — stay tuned for public releases soon.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+### 🛠️ Featured Projects (coming soon)
+
+- **[Progress Notes](https://keorangi.com)** – See what’s cooking 🔧
+
+---
+
+### 💬 What We Believe
+
+- **Open by default**: Where possible, our code is licensed and shared for others to learn from and build upon
+- **Small is beautiful**: Focus on the essentials and do them well
+- **Tools should respect time**: Yours, and your users’
+
+---
+
+### 📫 Let’s Connect
+
+- Website: [https://keorangi.com](https://keorangi.com)
+- Bluesky: [@keorangi.bsky.social](https://bsky.app/profile/keorangi.bsky.social)
+- GitHub Discussions *(coming soon)* for questions, feedback & ideas
+
+---
+
+### 🤝 Contributing
+
+We're still early-stage and not actively seeking contributions — but if you find something interesting, ideas and issues are welcome!
+
+- See [CONTRIBUTING.md](https://github.com/keorangi/.github/blob/main/CONTRIBUTING.md) (coming soon)
+- File issues or open PRs with improvements or questions
+
+---
+
+### ⚖️ License
+
+All code in this organization is released under the **GNU AGPLv3 license**, unless otherwise specified.
+
+That means:
+- You’re free to use, modify, and share the work
+- You **must attribute** the original source (Keorangi)
+- Derivative works must be shared under the **same license**
+
+> 📜 For more details, see [`LICENSE`](https://github.com/keorangi/.github/blob/main/LICENSE)
+
+---
+
+### 🔭 What’s Next?
+
+- Publish first micro-app: [RentRant]
+- Write about: “How I built a SaaS app in 2 weekends”
+- Share open roadmap via [keorangi.com](https://keorangi.com)
+
+Stay tuned!
