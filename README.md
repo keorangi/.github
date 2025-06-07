@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://keorangi.com/images/keorangi-logo-color.svg" width="180" alt="Keorangi logo" />
-</p>
-
 # Kia ora, we’re Keorangi 👋
 
 **Independent software makers crafting small, useful SaaS & web tools** — all built openly with care from our studio in Aotearoa (New Zealand).
